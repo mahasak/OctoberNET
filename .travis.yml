@@ -1,8 +1,8 @@
 language: csharp
-solution: Src/OctoberNet/OctoberNet.sln
+solution: OctoberNet.sln
 before_install:
   - sudo apt-get install nunit-console
 before_script:
-  - nuget restore Src/OctoberNet/OctoberNet.sln
+  - nuget restore OctoberNet.sln
 after_script:
   - nunit-console Src/OctoberNet.Test/bin/Release/OctoberNet.Test.dll
