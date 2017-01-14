@@ -7,8 +7,8 @@
     <ProjectGuid>{9C4774BB-2A9B-40B0-AF65-E071E02F1535}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OctoberNET</RootNamespace>
-    <AssemblyName>OctoberNET</AssemblyName>
+    <RootNamespace>OctoberNet</RootNamespace>
+    <AssemblyName>OctoberNet</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoberNet", "OctoberNET\OctoberNet.csproj", "{9C4774BB-2A9B-40B0-AF65-E071E02F1535}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoberNet", "OctoberNet\OctoberNet.csproj", "{9C4774BB-2A9B-40B0-AF65-E071E02F1535}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoberNet.Test", "..\OctoberNet.Test\OctoberNet.Test.csproj", "{C968CCB9-FEBD-4BCA-92DF-8787C63F8545}"
 EndProject
